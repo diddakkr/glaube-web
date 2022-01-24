@@ -1,7 +1,7 @@
 import React, {FC} from "react";
 import Home from "./Home";
 import Navigation from "./Navigation";
-import '../App.css';
+import '../styles/main.css';
 import Fotter from "./Fotter";
 
 const Main: FC = () => {
